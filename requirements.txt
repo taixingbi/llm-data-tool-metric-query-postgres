@@ -1,0 +1,4 @@
+pydantic
+psycopg2
+pandas
+notebook
